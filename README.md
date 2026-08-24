@@ -7,4 +7,4 @@ the app's source lives in a separate private repository. `electron-updater` in t
 releases to notify users of new versions.
 
 
-Latest published version: v1.0.59
+Latest published version: v1.0.60
